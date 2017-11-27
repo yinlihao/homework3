@@ -1,0 +1,22 @@
+---
+title: "Homework 2"
+output: pdf_document
+---
+![Original Image](lihao.jpg)
+![Missing Image](lihao1.png)
+![The reconstructed Image](lihao2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
